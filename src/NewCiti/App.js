@@ -1,7 +1,5 @@
-import React from "react";
-import Home from "./views/Home";
+import React from 'react'
 import Index from './views/index'
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import './App.css'
 import Main from './layouts/MainLayout'
 function App() {
@@ -9,10 +7,9 @@ function App() {
     <div className="App">
       <Main>
         <Index />
-
       </Main>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

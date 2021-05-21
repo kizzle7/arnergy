@@ -15,7 +15,7 @@ a:visited {
   padding: 0;
   margin: 0;
   font-size: 0.9rem;
-  width: 1025px;
+  width: 70%px;
   background-color: #F7F8FA;
   color: #5a5a5a;
   opacity: 1;
@@ -33,10 +33,11 @@ a:visited {
   top: 0px;
   position: fixed;
   left: 1025px;
-  width: 330px;
+  width: 30%;
   height: 810px;
   max-height: 100%;
   overflow-y: auto;
+  scrollbar-width: none;
   height: 810px;
   background: #fff 0% 0% no-repeat padding-box;
   color: black;
@@ -96,7 +97,7 @@ a:visited {
   width: 56px;
   font-size: 0.9rem;
   z-index: 1;
-  height: 100%;
+  height: 810px;
   background: #FFFFFF 0% 0% no-repeat padding-box;
   opacity: 1;
   color: black;
@@ -250,7 +251,7 @@ a:visited {
 .input-copy[type=text] {
   border-radius: 12px;
   border: 1px solid #F7F8FA;
-  width: 167px;
+  width: 169px;
   height: 44px;
   background: #F7F8FA 0% 0% no-repeat padding-box;
   border-radius: 100px;
@@ -434,7 +435,7 @@ a:visited {
   padding: 20px 0px;
 }
 
-.img-color-white{
+.img-color-white {
   filter: brightness(6) invert(1);
 
 }
@@ -581,19 +582,17 @@ a:visited {
 
 .side-nav {
   padding-left: 1.1rem;
-  margin-top: 9.5rem;
+  margin-top: 10.5rem;
 }
 
 
 .side-nav-list {
-  padding: 22px 0px;
+  padding: 4px 0px;
   cursor: pointer;
 }
 
-.side-nav-list-active{
+.side-nav-list-active {
   border-right: 3px solid #FFA101 !important;
-  display: block;
-  height: 3rem;
 
 }
 

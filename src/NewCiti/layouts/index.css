@@ -3,23 +3,25 @@
   margin: 0;
   padding: 0;
   background-color: #F7F8FA;
-  color:#354052;
-  width: 1025px;
+  color: #354052;
+  width: 70%;
   opacity: 1;
   height: 810px;
 }
+
 .main-body {
   margin-top: 70px;
   position: relative;
   margin: 0;
   padding: 0;
-  
+
 }
+
 .display-none {
   opacity: 10%;
 }
 
-.body-part{
+.body-part {
   top: 0px;
   left: 0px;
   right: 0px;
@@ -28,8 +30,9 @@
 
 
 }
+
 .display-flex {
   display: flex;
   position: relative;
-  
+
 }

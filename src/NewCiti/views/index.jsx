@@ -1,6 +1,6 @@
-import React from 'react'
-import TabInfo  from './tab';
-import './index.css'
+import React from "react";
+import TabInfo from "./tab";
+import "./index.css";
 export default class Index extends React.Component {
   render() {
     return (
@@ -32,6 +32,6 @@ export default class Index extends React.Component {
           <TabInfo />
         </div>
       </div>
-    )
+    );
   }
 }

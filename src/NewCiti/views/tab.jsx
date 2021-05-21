@@ -27,9 +27,8 @@ function App() {
               </div>
               <div class="tab-box-divider"></div>
               <div class="d-flex justify-content align-items">
-                  <div class="footer-text">Accept Booking</div>
-                  <div class="footer-decline">Decline</div>
-
+                <div class="footer-text">Accept Booking</div>
+                <div class="footer-decline">Decline</div>
               </div>
             </div>
             <div className="tab-box-stats">
@@ -51,13 +50,14 @@ function App() {
               </div>
               <div class="tab-box-divider"></div>
               <div class="d-flex justify-content align-items">
-                  <div class="footer-text">Accept Booking</div>
-                  <div class="footer-decline">Decline</div>
-
+                <div class="footer-text">Accept Booking</div>
+                <div class="footer-decline">Decline</div>
               </div>
             </div>
             <div className="tab-box-stats">
-              <span className="tabs-stats-title pl-3 pt-5">Beatrice Carrol</span>
+              <span className="tabs-stats-title pl-3 pt-5">
+                Beatrice Carrol
+              </span>
               <div className="tab-stats-sub">Service</div>
               <div className="tab-box-title">Physiotherapy</div>
 
@@ -75,16 +75,11 @@ function App() {
               </div>
               <div class="tab-box-divider"></div>
               <div class="d-flex justify-content align-items">
-                  <div class="footer-text">Accept Booking</div>
-                  <div class="footer-decline">Decline</div>
-
+                <div class="footer-text">Accept Booking</div>
+                <div class="footer-decline">Decline</div>
               </div>
             </div>
-
-           
-           
           </div>
-
 
           <div className="d-flex justify-content-between align-items-center pt-4">
             <div className="tab-box-stats">
@@ -106,9 +101,8 @@ function App() {
               </div>
               <div class="tab-box-divider"></div>
               <div class="d-flex justify-content align-items">
-                  <div class="footer-text">Accept Booking</div>
-                  <div class="footer-decline">Decline</div>
-
+                <div class="footer-text">Accept Booking</div>
+                <div class="footer-decline">Decline</div>
               </div>
             </div>
             <div className="tab-box-stats">
@@ -130,13 +124,14 @@ function App() {
               </div>
               <div class="tab-box-divider"></div>
               <div class="d-flex justify-content align-items">
-                  <div class="footer-text">Accept Booking</div>
-                  <div class="footer-decline">Decline</div>
-
+                <div class="footer-text">Accept Booking</div>
+                <div class="footer-decline">Decline</div>
               </div>
             </div>
             <div className="tab-box-stats">
-              <span className="tabs-stats-title pl-3 pt-5">Christine Powell</span>
+              <span className="tabs-stats-title pl-3 pt-5">
+                Christine Powell
+              </span>
               <div className="tab-stats-sub">Service</div>
               <div className="tab-box-title">Physiotherapy</div>
 
@@ -154,22 +149,14 @@ function App() {
               </div>
               <div class="tab-box-divider"></div>
               <div class="d-flex justify-content align-items">
-                  <div class="footer-text">Accept Booking</div>
-                  <div class="footer-decline">Decline</div>
-
+                <div class="footer-text">Accept Booking</div>
+                <div class="footer-decline">Decline</div>
               </div>
             </div>
-
-           
-           
           </div>
-
-          
         </div>
-        <div label="Enquiries">
-        </div>
-        <div label="My Services">
-        </div>
+        <div label="Enquiries"></div>
+        <div label="My Services"></div>
       </Tabs>
     </div>
   );

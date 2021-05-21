@@ -72,7 +72,7 @@ export default function FixedLeftNav() {
                     opacity: '0.3',
                   }}
                 >
-                  <span className="text-link">Edit Link</span>
+                  <span className="text-dark">Edit Link</span>
                 </div>
               </div>
             </div>
